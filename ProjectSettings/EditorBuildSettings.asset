@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: c70911b95d5b043488047a204a2089fa
+  - enabled: 1
+    path: Assets/Scenes/Brickwall.unity
+    guid: 31e2b288f876b74468a20c607ba76fa9
   m_configObjects: {}
